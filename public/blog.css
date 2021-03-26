@@ -1,7 +1,7 @@
 :root {
     --color-text: #a8a8b3;
     --color-primary-hover: #9466ff;
-    --color-primary: #8257e6;
+    --color-primary: #0079f2;
     --color-secondary: #e1e1e6;
     --color-background: #121214;
     --color-background2: #313136;
@@ -13,4 +13,5 @@
     --color-background-gray: rgb(0, 0, 0, 0.1);
     --color-secondary: #e1e1e6;
     --color-rocket: #7159c1;
+    --color-blue:#0081ee;
 }
